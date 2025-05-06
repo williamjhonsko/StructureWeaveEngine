@@ -1,0 +1,19 @@
+
+Detects repetitive waves, burst clusters, and error floods across live log streams.
+
+#### **README.md**
+```markdown
+# LogPulseStream - Repetition and Burst Log Analyzer
+
+LogPulseStream identifies frequent error waves and bursty activity in real-time or batch log files.
+
+## Features
+- Burst/frequency detection  
+- Keyword timeline alerts  
+- CLI output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LogPulseStream.git
+cd 21_LogPulseStream
+python analyze.py
